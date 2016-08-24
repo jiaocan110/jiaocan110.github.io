@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "第一篇技术博客"
-date:   2013-11-10 10:18:00
-categories: Thriller Comedy Horror
+date:   2016-8-24 10:18:00
+categories: 焦灿
 ---
 
 
