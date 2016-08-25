@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
+name: 焦灿的技术博客
 description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+meta_description: “我是一名水笔程序猿”
 
 markdown: kramdown
 highlighter: pygments
