@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me 
+title: 关于我 
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+我都不知道我会啥，但是我只是想知道我能干啥。就这样在玩中学习
